@@ -1,4 +1,4 @@
-# 🇷🇺 AXE FIND RU
+# AXE FIND RU
 
 ![Windows Support](https://img.shields.io/badge/platform-Windows-blue?logo=windows&logoColor=white)
 ![Status](https://img.shields.io/badge/status-stable-brightgreen)
@@ -65,7 +65,7 @@ AXE FIND — это утилита для Windows, предназначенна�
 
 
 
-# AXE FIND EN🇺🇸
+# AXE FIND EN
 
 ![Windows Support](https://img.shields.io/badge/platform-Windows-blue?logo=windows&logoColor=white)
 ![Status](https://img.shields.io/badge/status-stable-brightgreen)

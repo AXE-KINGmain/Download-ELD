@@ -4,6 +4,7 @@
 ![Status](https://img.shields.io/badge/status-stable-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Language](https://img.shields.io/badge/language-English-blue)
+![Language](https://img.shields.io/badge/language-Russian-blue)
 
 AXE FIND — это утилита для Windows, предназначенная для поиска ключевых слов в логах электронного логбука (ELD logbook).
 
